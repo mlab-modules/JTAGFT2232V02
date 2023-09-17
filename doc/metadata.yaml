@@ -1,4 +1,4 @@
-description: null
+description: The module allow J-TAG programming via USB.
 github_branch: JTAGFT2232V02A
 github_repo: JTAGFT2232V02
 github_url: https://github.com/mlab-modules/JTAGFT2232V02
